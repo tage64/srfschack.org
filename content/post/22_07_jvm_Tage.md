@@ -1,8 +1,6 @@
 ---
 date: 2022-07-17
-tags: []
 title: "Svensk vinst i Junior-VM 2022"
-disable_share: false
 ---
 
 Dam- och Junior-VM för synskadade spelades i utkanten av den mindre staden [Castelnaudary][1] i södra Frankrike 10-17 juli 2022.
