@@ -1,3 +1,6 @@
+[dev]
+  framework = "hugo"
+
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
@@ -5,6 +8,7 @@
 [build.environment]
   HUGO_VERSION = "0.97.3"
   HUGO_ENABLEGITINFO = "true"
+  GIT_LFS_ENABLED = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"
