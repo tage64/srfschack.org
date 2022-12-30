@@ -1,6 +1,6 @@
 ---
 title: Svenska framgångar på Irland
-lastmod: 2010-01-01
+date: 2010-01-01
 ---
 
 \><img alt="Håkan Thomson vid prisutdelningen" src="/userfiles/image/Irland1_liten.jpg" height="120" width="160" align="right" />Irish open för synskadade 2010 blev mycket framgångsrikt för Sverige! Patrik berggren vann huvudturneringen och Fredrik Ljungdahl vann klassen för spelare under 1400 i ranking.

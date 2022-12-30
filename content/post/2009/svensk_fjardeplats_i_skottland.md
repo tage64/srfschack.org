@@ -1,6 +1,6 @@
 ---
 title: Svensk fjärdeplats i Skottland
-lastmod: 2009-01-01
+date: 2009-01-01
 ---
 
 Den 2 – 4 januari 2009 genomfördes en lagturnering i Edinburgh i Skottland till minne av punktskriftens uppfinnare Louis Braille. Braille föddes i Frankrike den 4 januari år 1809. Ett villkor för spelarna i denna turnering var att dragen skulle noteras på punktskrift.

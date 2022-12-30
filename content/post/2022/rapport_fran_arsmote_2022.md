@@ -1,13 +1,9 @@
 ---
 title: Rapport från årsmöte 2022
 lastmod: 2022-07-20
+date: 2022-07-20
 summary: Läs hela referatet från årsmötet här.
 ---
-
-[]()
-
-Referat från årsmöte 2022
-==========
 
 Sveriges synskadades schackförbund (SSSF) genomförde sitt årsmöte den 25 mars 2022. Platsen var Best Western Hotell i Söderhamn.
 

@@ -1,13 +1,9 @@
 ---
 title: Information från årsmötet 2011
 lastmod: 2011-04-10
+date: 2011-04-10
 summary: "Samtidigt som årets SM hölls som vanligt också årets styrelsemöte. Blanda nnat antogs stadgeändringar.  \n Information från årsmötet 2011."
 ---
-
-[]()
-
-Förbundets årsmöte 2011
-==========
 
 Sveriges Synskadades Schackförbund genomförde 2011 års årsmöte på Scandic CH i Gävle fredagen den 11 mars. Röstlängden omfattade 20 röstande. Till att leda mötet utsågs Richard Spele, Stockholm.
 

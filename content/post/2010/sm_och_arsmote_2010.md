@@ -1,13 +1,9 @@
 ---
 title: SM och Årsmöte 2010
 lastmod: 2010-08-18
+date: 2010-08-18
 summary: "Nu är SM avgjort och Håkan Thomson stod som segrare när krutröken väl la sig. \n Rapport från årets SM \n Rapport från årsmötet som hölls i samband med SM"
 ---
-
-[]()
-
-SM i schack för synskadade
-==========
 
 Håkan Thomsson, Tierp, vann SM i schack för synskadade som spelades i Bollnäs den 25-28 mars. Med fyra vinster och en remi tog han förstaplatsen en halv poäng före William Lyons, Solna. I klass 2 segrade Hernan Sobredo, Solna, efter särspel mot Peter Hjalmarson, Falun.
 

@@ -1,6 +1,7 @@
 ---
 title: Öppna Norrlandsmästerskapet avgjort
 lastmod: 2010-01-25
+date: 2008-12-31
 summary: Även i år vann vi över norrmännen i öppna Norrlandsmästerskapen, mer information om  årets upplaga av öppna Norrlandsmästerskapen .
 ---
 

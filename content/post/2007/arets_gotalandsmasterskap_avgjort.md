@@ -1,13 +1,9 @@
 ---
 title: Årets Götalandsmästerskap avgjort
 lastmod: 2010-01-25
+date: 2007-12-31
 summary: "Nu är årets öppna Götalandsmästerskap avgjort, och det blev en norrlänning som tog hem det. \n Resultat från årets GM"
 ---
-
-[]()
-
-GM 2007 till Norrland
-==========
 
 Öppna Götalandsmästerskapet för synskadade 2007 spelades på Glimåkra folkhögskola i kristi himmelsfärdshelgen. Man spelade fem ronder monrad.
 

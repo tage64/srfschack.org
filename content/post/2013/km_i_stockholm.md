@@ -1,6 +1,6 @@
 ---
 title: KM i Stockholm
-lastmod: 2013-01-01
+date: 2013-01-01
 ---
 
 Under hösten spelade tio spelare nio ronder Monrad i klubbmästerskapet i stockholmsklubben. Dragserien var hela partiet på två timmar.

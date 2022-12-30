@@ -1,6 +1,6 @@
 ---
 title: Öppna Götalandsmästerskapet 2011
-lastmod: 2011-01-01
+date: 2011-01-01
 ---
 
 I kristi himmelsfärdshelgen avgjordes årets öppna Götalandsmästerskap för synskadade. Tolv spelare möttes i fem ronder monrad. Domare var Dragutin Dolenec.

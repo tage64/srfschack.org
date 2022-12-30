@@ -1,6 +1,6 @@
 ---
 title: Dobrivoje Vukovic vann på Glimåkra
-lastmod: 2008-01-01
+date: 2008-01-01
 ---
 
 Öppna Götalandsmästerskapet för synskadade 2008 spelades på Glimåkra folkhögskola utanför Hässleholm i Kristi himmelsfärdshelgen. Femton spelare möttes i fem ronder monrad. Domare var Ronny Andersson.

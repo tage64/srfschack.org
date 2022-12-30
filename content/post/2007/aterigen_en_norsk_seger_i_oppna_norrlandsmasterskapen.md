@@ -1,13 +1,9 @@
 ---
 title: Återigen en norsk seger i öppna Norrlandsmästerskapen
 lastmod: 2010-01-25
+date: 2007-12-31
 summary: "Även i år blev det norsk seger i de öppna Norrlandsmästerskapen som traditionsenligt spelades på Köja fjällhotell \n Resultatet från öppna Norrländska"
 ---
-
-[]()
-
-Kai-Roger vann öppna Norrländska
-==========
 
 Även i år blev det norsk seger i de öppna Norrlandsmästerskapen som traditionsenligt spelades på Köja fjällhotell
 

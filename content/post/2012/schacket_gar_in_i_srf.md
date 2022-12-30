@@ -1,6 +1,6 @@
 ---
 title: Schacket går in i SRF
-lastmod: 2012-01-01
+date: 2012-01-01
 ---
 
 Sveriges Synskadades Schackförbund är sedan den 1 maj 2012 branschförening inom Synskadades Riksförbund, SRF. Schackförbundets ansökan om detta beviljades vid SRF:s förbundsstyrelsemöte den 26-27 april.

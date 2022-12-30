@@ -1,6 +1,7 @@
 ---
 title: SM för synskadade 2012 avgjort
 lastmod: 2012-03-09
+date: 2012-03-09
 summary: "Guld till Håkan Thomsson, silver till Dobrivoje Vukovic och brons till Per Svensson. Så slutade det svenska mästerskapet i schack för synskadade 2012 som avgjordes på Stadshotellet i Mjölby den 1-4 mars. I klass 2 segrade Hernan Sobredo. 21 synskadade kom till start, och för att undvika frironder så ställde Per Hedberg (seende) upp i klass 2. SM för synskadade 2012 \n Information från årsmötet 2012 \n Nya tävlingsregler för SM \n Styrelsens sammansättning efter årsmötet"
 ---
 

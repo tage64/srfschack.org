@@ -1,13 +1,9 @@
 ---
 title: EM avgjort i Storbritannien
 lastmod: 2010-01-25
+date: 2007-12-31
 summary: "EM avgjordes nyligen i Storbritannien. Fyra svenskar var på plats, och bäst lyckades Markus Berggren som blev 44:a. \n Rapport från EM 2007 av Richard Spele \n Partier från EM 2007 pgn-fil på 231kb \n Se resultat och läs om tävlingarna på www.braillechess.org.uk"
 ---
-
-[]()
-
-EM 2007 i England
-==========
 
 Den 13 augusti var det dags för avresa till nordöstra England och det europeiska mästerskapet i schack för synskadade. Sverige representerades av Markus Berggren, Patrik Berggren, Richard Spele och Olle Engström.
 

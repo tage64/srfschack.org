@@ -1,6 +1,7 @@
 ---
 title: Svensk seger i Junior-VM
 lastmod: 2022-08-09
+date: 2022-08-09
 summary: Tage Johansson vann Junior-VM 2022 i södra Frankrike. Läs Tages egen redogörelse för tävlingen här.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Resultatet från GM
-lastmod: 2013-01-01
+date: 2013-01-01
 ---
 
 * 1 - 2 Dobbe Vukovic 4 1/2  

@@ -1,13 +1,9 @@
 ---
 title: Fin framgång för synskadelandslaget
 lastmod: 2010-01-25
+date: 2007-12-31
 summary: "Sverige kom på andra plats i sexnationsturneringen för fyramannalag som spelades i Tyskland den 4-6 oktober. Värdlandet vann tack vare bättre partipoäng. Sverige vann mot Holland, Belgien, Schweiz och Storbritannien, och spelade 2-2 mot tyskarna. De svenska poängen fördelades enligt följande: \nMarkus Berggren 5,0/5 \nPatrik Berggren 4,5/5 \nDobrivoje Vukovic 2,5/5 \nOlle Engström 3,0/5 \n Sexnationersturneringen, lagkapten Luis Cousos rapport."
 ---
-
-[]()
-
-Rapport från sexnationsturneringen
-==========
 
 Den 3 – 7 oktober 2007 deltog det svenska synskadelandslaget i den sexnationsturnering som avgjordes i Bad Meinberg i Tyskland. Sexnationsturneringen för synskadade fyramannalag har spelats vartannat år och har lång tradition. I år var dock första gången som Sverige var med. Att vi bjöds in berodde på att Frankrike drog sig ur med kort varsel. Här är en rapport från Luis Couso, som var Sveriges lagkapten:
 

@@ -1,6 +1,6 @@
 ---
 title: Rapport från landskamen Nord-Sverige mot Tröndelag
-lastmod: 2007-01-01
+date: 2007-01-01
 ---
 
 Onsdag den 11 juli avgjordes landsdelskampen Nord-Sverige-Tröndelag på Köja fjällhotell Edsåsdalen, Åre. Första landsdelskampen spelades år 1967. Den har spelats alla år utom år 2004 . 40-årsjubileet får firas nästa år, då vi hoppas få med flera norrlänningar i vårt lag.

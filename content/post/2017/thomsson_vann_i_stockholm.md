@@ -1,6 +1,6 @@
 ---
 title: Thomsson vann i Stockholm
-lastmod: 2017-01-01
+date: 2017-01-01
 ---
 
 Under perioden januari – maj 2017 har en vårturnering spelats i Synskadades Schackklubb i Stockholm. Tio spelare möttes i nio ronder berger. Betänketiden var 90 minuter för hela partiet plus 30 sekunder per drag. 

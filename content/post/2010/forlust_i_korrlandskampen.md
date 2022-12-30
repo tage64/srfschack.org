@@ -1,6 +1,6 @@
 ---
 title: Förlust i korrlandskampen
-lastmod: 2010-01-01
+date: 2010-01-01
 ---
 
 Sverige förlorade den dubbelrondiga korrespondensschacklandskampen för synskadade mot Irland. Matchen startade under hösten 2009 och avslutades i augusti 2010. Irländarna segrade med 9,5-2,5.

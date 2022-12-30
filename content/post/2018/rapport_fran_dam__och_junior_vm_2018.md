@@ -1,13 +1,9 @@
 ---
 title: Rapport från Dam- och junior-VM 2018
 lastmod: 2019-01-03
+date: 2018-12-31
 summary: Läs Jörgen Magnussons rapport från dam- och junior-VM 2018.
 ---
-
-[]()
-
-Dam- och junior-VM 2018
-==========
 
 13–24 augusti 2018 spelades dam- respektive junior-VM i schack för synskadade. Turneringarna hölls parallellt på hotell Malinowoy Raj i Solec-Zdroj i polen. I dam-VM representerades Sverige av två av våra nya spelare, Elvira Sjöblom och Kristina Mörk. Deras ledsagare var Mikael Werngren. I junior-VM representerades Sverige av Tage och William Johansson samt David Atterberg. Tages ledsagare var Magnus Holm och William och David beledsagades av Williams pappa Jan Johansson.
 

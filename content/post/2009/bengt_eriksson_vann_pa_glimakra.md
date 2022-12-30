@@ -1,6 +1,6 @@
 ---
 title: Bengt Eriksson vann på Glimåkra
-lastmod: 2009-01-01
+date: 2009-01-01
 ---
 
 Bengt Eriksson, Stockholm, vann det öppna Götalandsmästerskapet för synskadade 2009. Turneringen spelades på Glimåkra folkhögskola i kristi himmelsfärdshelgen. 13 deltagare möttes i fem ronder monrad.

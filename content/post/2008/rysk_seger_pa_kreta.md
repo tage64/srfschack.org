@@ -1,6 +1,6 @@
 ---
 title: Rysk seger på Kreta
-lastmod: 2008-01-01
+date: 2008-01-01
 ---
 
 Den trettonde schackolympiaden för synskadade avgjordes på Hotel Apollonia vid Amoudara strax utanför Heraklion på Kreta den 19-28 oktober 2008. Olympiaden var en schweizerturnering i nio ronder för fyramannalag.

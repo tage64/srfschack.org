@@ -1,6 +1,6 @@
 ---
 title: Schackförbundets 70-årsjubileumsturnering
-lastmod: 2016-01-01
+date: 2016-01-01
 ---
 
 Resultatet från jubileumsturneringen för att fira förbundets 70-åriga historia finns nu att läsa här:

@@ -1,6 +1,6 @@
 ---
 title: Klubbmästerskap Stockholm 2012
-lastmod: 2012-01-01
+date: 2012-01-01
 ---
 
 Tolv spelare spelade elva ronder Berger i klubbmästerskapet i Stockholm 2012. Lars-Erik Lindgren blev klubbmästare efter särskiljning.

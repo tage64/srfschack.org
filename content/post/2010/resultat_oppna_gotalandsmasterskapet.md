@@ -1,6 +1,6 @@
 ---
 title: Resultat öppna Götalandsmästerskapet
-lastmod: 2010-01-01
+date: 2010-01-01
 ---
 
 William Lyons vann årets öppna Götalandsmästerskap. Slutställningen blev:

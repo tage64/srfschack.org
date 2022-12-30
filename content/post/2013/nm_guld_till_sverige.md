@@ -1,13 +1,9 @@
 ---
 title: NM-guld till Sverige
 lastmod: 2013-02-03
+date: 2013-02-03
 summary: Sverige vann det nordiska lagmästerskapet för synskadade som ägde rum på synskaderörelsens konferens- och rekreationsanläggning Almåsa, cirka tre mil söder om Stockholm, den 1-3 februari 2013. NM-guld till Sverige 2013
 ---
-
-[]()
-
-NM-guld till Sverige
-==========
 
 Sverige vann det nordiska lagmästerskapet för synskadade som ägde rum på synskaderörelsens konferens- och rekreationsanläggning Almåsa, cirka tre mil söder om Stockholm, den 1-3 februari 2013.
 

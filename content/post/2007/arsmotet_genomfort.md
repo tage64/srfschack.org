@@ -1,13 +1,9 @@
 ---
 title: Årsmötet genomfört
 lastmod: 2010-01-25
+date: 2007-12-31
 summary: "I sedvanlig stil klarades årsmötet av under SM-helgen. \n Kort information från årsmötet 2007  \nDe nya tävlingsreglerna för SM, DOC-fil, 29kB (nytt fönster)"
 ---
-
-[]()
-
-Kort från årsmötet 2007
-==========
 
 Den 24 februari 2007 genomfördes Sveriges Synskadades Schackförbunds årsmöte på Almåsa konferensanläggning i Västerhaninge. Som mötesledare fungerade Lennart Nolte.
 

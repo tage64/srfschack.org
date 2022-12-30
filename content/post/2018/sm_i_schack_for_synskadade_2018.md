@@ -1,6 +1,6 @@
 ---
 title: SM i schack för synskadade 2018
-lastmod: 2018-01-01
+date: 2018-01-01
 ---
 
 Jörgen Magnusson stod återigen som segrare i SM.

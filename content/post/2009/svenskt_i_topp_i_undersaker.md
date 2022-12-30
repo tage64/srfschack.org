@@ -1,13 +1,9 @@
 ---
 title: Svenskt i topp i Undersåker
 lastmod: 2010-01-13
+date: 2009-12-31
 summary: "Håkan Thomsson, Tierp, vann det öppna norrländska mästerskapet för synskadade 2009 som spelades på hotell Fjällsätra i Undersåker den 8-11 augusti. \n Norrländska mästerskapen 2009, information och slutställning \n Partisamling från öppna Norrlandsmästerskapet för synskadade 2009, rtf-fil på 47kB (öppnas i nytt fönster)"
 ---
-
-[]()
-
-Svenskt i topp i Undersåker
-==========
 
 Håkan Thomsson, Tierp, vann det öppna norrländska mästerskapet för synskadade 2009 som spelades på hotell Fjällsätra i Undersåker den 8-11 augusti. Han tog 6,5 poäng av 7 möjliga och vann en hel poäng före Dobrivoje Vukovic, Hudiksvall. 
 

@@ -1,6 +1,6 @@
 ---
 title: EM för synskadade 2011 
-lastmod: 2011-01-01
+date: 2011-01-01
 ---
 
 Piotr Dukaczewski från Polen är Europamästare för synskadade. Han delade förstaplatsen i årets EM med tre andra spelare på 7,0/9, men särskiljningssystemet gav Dukaczewski guldet.

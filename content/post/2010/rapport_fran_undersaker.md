@@ -1,13 +1,9 @@
 ---
 title: Rapport från Undersåker
 lastmod: 2010-08-18
+date: 2010-08-18
 summary: Öppna Norrländska mästerskapet 2010 är avslutat och här kan du läsa en rapport från turneringen.
 ---
-
-[]()
-
-Schack i Undersåker
-==========
 
 I månadsskiftet juli/augusti spelades öppna norrländska mästerskapet för synskadade på hotell Fjällsätra i Undersåker. Det hela inleddes med en dubbelrondig match över tre bord mellan Nordsverige och Tröndelag. Trönderna vann denna match med 4-2.
 

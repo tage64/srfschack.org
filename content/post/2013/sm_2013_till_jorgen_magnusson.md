@@ -1,13 +1,9 @@
 ---
 title: SM 2013 till Jörgen Magnusson
 lastmod: 2013-03-12
+date: 2013-03-12
 summary: Svenska mästerskapet i schack för synskadade 2013 spelades på Stadshotellet i Hudiksvall den 7-10 mars. Turneringen samlade 20 deltagare Resultatet från SM 2013
 ---
-
-[]()
-
-Jörgen Magnusson vann SM
-==========
 
 Svenska mästerskapet i schack för synskadade 2013 spelades på Stadshotellet i Hudiksvall den 7-10 mars. Turneringen samlade 20 deltagare som spelade i tre klasser. Klass 1 och 2 avgjordes i fem ronder berger, och klass 3 i fem ronder monrad.
 

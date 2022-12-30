@@ -1,6 +1,6 @@
 ---
 title: JVM för synskadade 2011
-lastmod: 2011-01-01
+date: 2011-01-01
 ---
 
 Pavle Dimic från Serbien, född den 28 februari 1997, är juniorvärldsmästare för synskadade. Han tog 5,5 poäng på de sju ronderna och vann med en halv poängs marginal till Igor Khmelevskoy och Damjan Jandric. Inga nordbor deltog i årets JVM.

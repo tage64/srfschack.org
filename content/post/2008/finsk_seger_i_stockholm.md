@@ -1,13 +1,9 @@
 ---
 title: Finsk seger i Stockholm
 lastmod: 2010-01-25
+date: 2008-12-31
 summary: "Alvar Bloms minnesturnering arrangerades av Synskadades Schackklubb i Stockholm den 1-4 maj 2008. \n Mer om Alvar Bloms minnesturnering 2008"
 ---
-
-[]()
-
-Finsk seger i Stockholm
-==========
 
 Alvar Bloms minnesturnering arrangerades av Synskadades Schackklubb i Stockholm den 1-4 maj 2008. Elva spelare kom till start varav tre finländare: Ari Tonteri, Bengt Wikman och Kari Holmela. Dessa tre är Finlands tre starkaste synskadade schackspelare. Sveriges hopp ställdes i första hand till bröderna Markus och Patrik Berggren som tog guld respektive silver vid SM för synskadade i april i år.
 

@@ -1,6 +1,6 @@
 ---
 title: Vukovic vann i Glimåkra
-lastmod: 2012-01-01
+date: 2012-01-01
 ---
 
 Dobrivoje Vukovic, Hudiksvall, segrade i det Öppna Götalandsmästerskapet för synskadade 2012. Turneringen arrangerades traditionsenligt i Kristi himmelsfärdshelgen av Skåneklubben inom Sveriges Synskadades Schackförbund. Sexton spelare möttes i fem ronder monrad. Domare var Dragutin Dolenec från Malmö.

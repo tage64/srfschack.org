@@ -1,13 +1,9 @@
 ---
 title: Välbesökt Götalandsmästerskap avgjort
 lastmod: 2018-07-22
+date: 2018-07-22
 summary: Hela 15 spelar gjorde upp om årets öppna Götalandsmästerskap. Tage Johansson gick obesegrad genom turneringen och vann. Läs hela  rapporten från öppna Götalandsmästerksapet här .
 ---
-
-[]()
-
-**Rapport från Öppna Götalandsmästerskapet 2018**
-==========
 
 Årets upplaga av det Öppna Götalandsmästerskapet spelades på Hotell Rådmannen i Alvesta, mellan den 31 maj till 3 juni. 15 spelare, däribland 2 schackvänner från Norge, spelade 5 ronder Monrad. Betänketiden var en och en halv timme per spelare, plus 30 sekunders tillägg per drag. Som populär domare fungerade som vanligt Dragutin Dolinec. ”Drago” som han kallas, är en kunnig och trevlig domare, som dömt Öppna GM i snart tio års tid.
 

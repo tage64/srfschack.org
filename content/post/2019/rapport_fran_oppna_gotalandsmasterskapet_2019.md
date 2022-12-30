@@ -1,13 +1,9 @@
 ---
 title: Rapport från öppna Götalandsmästerskapet 2019
 lastmod: 2019-06-30
+date: 2019-06-30
 summary: Rapport och resultat från årets upplaga av Götalandsmästerskapen.
 ---
-
-[]()
-
-Rapport från det Öppna Götalandsmästerskapet i schack för synskadade 2019
-==========
 
 Det Öppna Götalandsmästerskapet i schack för synskadade 2019 avgjordes på Hotell Rådmannen i Alvesta, mellan den 30 maj och 2 juni.
 

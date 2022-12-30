@@ -1,6 +1,6 @@
 ---
 title: Resultat från Stockholmsklubbens vårturnering
-lastmod: 2012-01-01
+date: 2012-01-01
 ---
 
 Under våren 2012 spelade 12 spelare 11 ronder Monrad i stockholmsklubben. Dragserien var hela partiet på två timmar.

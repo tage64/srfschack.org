@@ -1,13 +1,9 @@
 ---
 title: GM 2014 avgjort
 lastmod: 2014-06-08
+date: 2014-06-08
 summary: Öppna Götalandsmästerskapen spelades på Glimåkra folkhögskola 29 - 31 maj 2014. Elva spelare spelade fem ronder monrad. Betänketiden var hela partiet på 90 minuter med 30 sekunders tillägg per drag. Domare var Dragutin Dolenec. GM 2014
 ---
-
-[]()
-
-GM 2014
-==========
 
 Öppna Götalandsmästerskapen spelades på Glimåkra folkhögskola 29 - 31 maj 2014. Elva spelare spelade fem ronder monrad. Betänketiden var hela partiet på 90 minuter med 30 sekunders tillägg per drag. Domare var Dragutin Dolenec.
 

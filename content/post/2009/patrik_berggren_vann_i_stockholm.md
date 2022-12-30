@@ -1,6 +1,6 @@
 ---
 title: Patrik Berggren vann i Stockholm
-lastmod: 2009-01-01
+date: 2009-01-01
 ---
 
 Lördagen den 24 januari 2009 genomförde Synskadades Schackklubb i Stockholm en snabbschackturnering med tidshandikapp. Tio spelare möttes i fem ronder schweizer. Domare var Richard Spele.

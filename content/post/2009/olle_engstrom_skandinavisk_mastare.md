@@ -1,6 +1,6 @@
 ---
 title: Olle Engström skandinavisk mästare
-lastmod: 2009-01-01
+date: 2009-01-01
 ---
 
 I januari 2008 startade det skandinaviska mästerskapet för synskadade i korrespondensschack. Spelet ska vara avslutat senast den 31 mars 2009. Redan nu är dock klass 1 färdigspelad, och vi kan glädjas över att Olle Engström, sverige, står som slutsegrare.

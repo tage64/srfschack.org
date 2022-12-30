@@ -1,13 +1,9 @@
 ---
 title: Rapport från SM 2022
 lastmod: 2022-07-19
+date: 2022-07-19
 summary: Tage Johansson och David Atterberg stod som segrare när krutröken hade lagt sig i det svenska mästerskapet i schack för synskadade 2022. Läs rapporten här .
 ---
-
-[]()
-
-Tage Johansson svensk mästare 2022 
-==========
 
 Guld till Tage Johansson, silver till Håkan Thomsson och brons till Tiyam Devistimogouei. Det blev slutresultatet vid svenska mästerskapet i schack för synskadade som spelades i Söderhamn den 24-27 mars 2022. I klass 2 segrade David Atterberg efter särspel mot Fredrik Ljungdahl.
 

@@ -1,13 +1,9 @@
 ---
 title: SM 2015 avgjordes på Almåsa 9-12 april
 lastmod: 2015-05-10
+date: 2015-05-10
 summary: Jörgen Magnusson vann, för tredje året i rad, titeln som svensk mästare i schack för synskadade. Magnusson vann samtliga 5 partier och var aldrig hotad. Håkan Thomsson vann silvermedaljen efter att ha vunnit samtliga partier, utom det mot Jörgen Magnusson. Olle Engström vann bronsmedaljen. Referat från SM 2015
 ---
-
-[]()
-
-Rapport från schack-sm för synskadade 2015
-==========
 
 Schack-SM för synskadade spelades mellan den 9-12 april på Almåsa konferens utanför Stockholm.
 

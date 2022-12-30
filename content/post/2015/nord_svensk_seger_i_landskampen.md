@@ -1,13 +1,9 @@
 ---
 title: Nord-Svensk seger i landskampen
 lastmod: 2015-07-26
+date: 2015-07-26
 summary: Rapport från sommarens kamp mellan Nord-Sverige och Trøndelag som vanns av Sverige. Rapport från landskampen 2015
 ---
-
-[]()
-
-Landskampen 2015 till Nord-Sverige
-==========
 
 <img alt="Dobrivoje Vukovic djupt försjunken i ett parti" src="http://www.srfschack.org/userfiles/image/dobbe.jpg" height="166" width="250" />
 

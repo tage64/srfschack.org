@@ -1,13 +1,9 @@
 ---
 title: Sverige vann återigen NM
 lastmod: 2010-01-25
+date: 2007-12-31
 summary: "Sverige tog återigen hem Nordiska mästerskapet i schack för synskadade. \n Läs om 2007 års Nordiska mästerskap"
 ---
-
-[]()
-
-Svensk seger i NM
-==========
 
 Nordiska mästerskapet i schack för synskadade avgjordes den 9-10 februari i Fredericia i Danmark. NM spelas med sexmannalag.
 

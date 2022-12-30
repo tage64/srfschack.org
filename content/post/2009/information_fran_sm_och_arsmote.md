@@ -1,13 +1,9 @@
 ---
 title: Information från SM och årsmöte
 lastmod: 2010-01-17
+date: 2009-12-31
 summary: "Jörgen Magnusson vann de högintressanta SM tävlingarna. \n Så gick det i SM 2009 \n Information från årsmötet 2009"
 ---
-
-[]()
-
-Jörgen Magnusson vann SM
-==========
 
 Svenska mästerskapet i schack för synskadade arrangerades på hotell Rådmannen i Alvesta den 5-8 mars 2009. Turneringen samlade 22 deltagare som fördelades på tre klasser. I klass 1 och 3 spelades fem ronder berger och i klass 2 fem ronder monrad. Domare var Alf Isaxon, som ställts till förfogande av Smålands Schackförbund. Alvesta kommun och Gerda Roos Bobergs stiftelse stöttade också evenemanget. 
 

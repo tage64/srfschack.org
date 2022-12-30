@@ -1,6 +1,6 @@
 ---
 title: Landsdelskampen 2011 
-lastmod: 2011-01-01
+date: 2011-01-01
 ---
 
 Årets landsdelskamp mellan Nordsverige och Tröndelag avgjordes på hotell Fjällsätra i Undersåker fredagen den 29 juli. Det var i år norrmännen som stod för arrangemanget, men de har valt att förlägga det i samband med öppna norrländska mästerskapet för synskadade.

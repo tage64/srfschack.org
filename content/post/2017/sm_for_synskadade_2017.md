@@ -1,13 +1,9 @@
 ---
 title: SM för synskadade 2017
 lastmod: 2017-04-10
+date: 2017-04-10
 summary: Det svenska mästerskapet i schack för synskadade 2017 spelades på Almåsa söder om Stockholm den 30 mars-2 april.  Läs rapporten från 2017 års mästerskap
 ---
-
-[]()
-
-**SM för synskadade 2017**
-==========
 
 Håkan Thomsson är svensk mästare för synskadade. Det var hans nionde SM-guld. I rond 3 besegrade han Jörgen Magnusson. I rond 4 släppte Håkan en remi mot Olle Engström, men Håkan höll ändå undan och vann halvpoängen före Jörgen.
 

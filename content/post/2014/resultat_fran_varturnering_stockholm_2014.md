@@ -1,6 +1,6 @@
 ---
 title: Resultat från Vårturnering Stockholm 2014
-lastmod: 2014-01-01
+date: 2014-01-01
 ---
 
 Sex spelare spelade tio ronder Berger (dubbelrondigt med skiftade färger). William Lyons segrade med 9,5 poäng av 10. Han tappade således bara en remi.

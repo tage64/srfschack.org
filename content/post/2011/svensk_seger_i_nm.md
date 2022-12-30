@@ -1,13 +1,9 @@
 ---
 title: Svensk seger i NM
 lastmod: 2011-10-15
+date: 2011-10-15
 summary: "Sverige vann det nordiska lagmästerskapet för synskadade 2011 som spelades i Iirishuset i östra Helsingfors den 7-8 oktober. \n Referat och slutställning från NM 2011."
 ---
-
-[]()
-
-Svensk seger i NM
-==========
 
 Sverige vann det nordiska lagmästerskapet för synskadade 2011 som spelades i Iirishuset i östra Helsingfors den 7-8 oktober. NM:et blev en ovanligt jämn tillställning med många hårda duster som ändå slutade remi. Det svenska guldlaget bestod i bordsordning av Jörgen Magnusson, Härnösand, Patrik Berggren, Stockholm, Håkan Thomsson, Tierp, Dobrivoje Vukovic, Hudiksvall, Olle Engström, Alnö, och Kourosh Javvi, Stockholm. Lagledare var Magnus Holm, Uppsala. Danmark hade en ny spelare på förstabordet, Ernst Bindzus, med ett nationellt rankingtal på 2140. Detta bidrog till att de hade förutsättningar att lyfta sig väsentligt jämfört med NM för två år sedan, då de slutade fyra.
 

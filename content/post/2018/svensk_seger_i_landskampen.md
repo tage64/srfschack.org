@@ -1,13 +1,9 @@
 ---
 title: Svensk seger i landskampen
 lastmod: 2018-07-22
+date: 2018-07-22
 summary: Den traditionsrika landsdelskampen mellan Trøndelag och Nord-Sverige avgjordes i samband med öppna Norrländska mästerskapet.  Läs rapporten från landskampen här .
 ---
-
-[]()
-
-RAPPORT FRÅN LANDSDELSKAMPEN 2018
-==========
 
 Den traditionsrika landsdelskampen mellan Trøndelag och Nord-Sverige avgjordes tisdagen den 10 juli. Spelplatsen var som vanligt numer, Hotell Åre Fjällsätra (Undersåker, Åre kommun). Betänketiden var en och en halv timme per spelare, plus trettio sekunder per drag. Som domare fungerade Benny Kellner, från Stockholms Schackförbund.
 

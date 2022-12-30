@@ -1,13 +1,9 @@
 ---
 title: Delad seger i jubileumsturneringen
 lastmod: 2010-01-25
+date: 2007-12-31
 summary: Georgibelle Fröjse och Erik Bremer delade segern i Sveriges Synskadades Schackförbunds jubileumsturnering i korrespondensschack.  Läs mer om 2007 års jubileumsturnering.
 ---
-
-[]()
-
-Delad seger i jubileumsturneringen
-==========
 
 Georgibelle Fröjse och Erik Bremer delade segern i Sveriges Synskadades Schackförbunds jubileumsturnering i korrespondensschack. Turneringen startade under år 2006 med anledning av bildandet av De Blindas Korrespondensschackklubb år 1946. Vårt förbund räknar sitt ursprung från den klubben. Jubileumsturneringen avslutades den 30 september 2007.
 

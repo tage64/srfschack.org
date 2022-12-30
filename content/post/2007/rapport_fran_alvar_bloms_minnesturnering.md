@@ -1,13 +1,9 @@
 ---
 title: Rapport från Alvar Bloms minnesturnering
 lastmod: 2010-01-25
+date: 2007-12-31
 summary: 2007 års turnering till Alvar Bloms minne gick av stapeln i Stockholm helgen 7-9 september.  Läs Richard Speles rapport från turneringen.
 ---
-
-[]()
-
-Alvar Bloms minnesturnering 2007
-==========
 
 Årets upplaga av Alvar Bloms minnesturnering gick av stapeln i Gotlandssalen helgen 7-9 september. 12 spelare kom till start och då det var en stor spännvidd i ranking delades tävlingen in i två grupper. Spelschemat fastställdes till fem ronder i två sexmannagrupper där alla skulle möta alla. Grupp A bestod av: Kay Hansen, Österrike, elo 2183, Patrik Berggren 1955, Jonatan Berggren 1949, Markus Berggren 1869, Håkan Thomsson 1663 och Dobrivoje Vukovic 1544. Grupp B bestod av: Håkan Stockhaus 1300, Bengt Eriksson 1184, Georgibelle Fröjse 1088, Fredrik Ljungdahl 930, Simon Stockhaus 885 och Leif Jeppsson 800.
 

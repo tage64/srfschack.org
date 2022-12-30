@@ -1,13 +1,9 @@
 ---
 title: Rafflande kamp i Norrland
 lastmod: 2018-07-22
+date: 2018-07-22
 summary: Det blev en tuff kamp i Undersåker som avgjordes med minsta möjliga marginal på kvalitetspoäng. 20 spelare i åldrar från 16 till 93 gjorde upp om titeln. Läs hela r apporten från öppna Norrländska mästerskapet .
 ---
-
-[]()
-
-**Rapport från det Öppna Norrländska mästerskapet i schack 2018**
-==========
 
 Årets upplaga av det Öppna Norrländska mästerskapet i schack för synskadade spelades mellan den 10-15 juli. Vi höll som vanligt till på Hotell Åre Fjällsätra (Undersåker, Åre kommun) och det var som alltid en fröjd att besöka hotellet.
 

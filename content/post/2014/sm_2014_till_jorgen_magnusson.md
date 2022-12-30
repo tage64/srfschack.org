@@ -1,13 +1,9 @@
 ---
 title: SM 2014 till Jörgen Magnusson
 lastmod: 2014-06-22
+date: 2014-06-22
 summary: 16 spelare gjorde upp i SM 2014 och när krutröken lagt sig stod Jörgen Magnusson som segrare. SM 2014
 ---
-
-[]()
-
-Rapport från schack-SM 2014
-==========
 
 Årets schack-sm för synskadade avgjordes i Stockholm. Tävlingen ägde rum mellan den 24-27 april och spelplatsen var Gottlandssalen.
 

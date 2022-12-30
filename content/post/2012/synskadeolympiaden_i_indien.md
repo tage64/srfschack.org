@@ -1,13 +1,9 @@
 ---
 title: Synskadeolympiaden i Indien
 lastmod: 2012-10-12
+date: 2012-10-12
 summary: "Skildrad av Håkan Thomsson \n Ladda ner dokument med partier från olympiaden (Word-fil, nytt fönster). Den fjortonde schackolympiaden för synskadade spelades i Chennai i Indien den 10 - 19 augusti 2012. Ryssland segrade före Ukraina, Spanien och Tyskland. Värdnationen Indien blev femma. Sverige belade sextondeplatsen. 25 lag deltog. Håkan Thomssons referat från Synskadeolympiaden i Indien."
 ---
-
-[]()
-
-Synskadeolympiaden i Indien
-==========
 
 **Skildrad av Håkan Thomsson  
 [Ladda ner dokument med partier från olympiaden (Word-fil, nytt fönster).](/file/partier_olympiaden_2012.doc)**

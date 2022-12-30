@@ -1,6 +1,7 @@
 ---
 title: Dam VM 2022
 lastmod: 2022-08-09
+date: 2022-08-09
 summary: Samtidigt och på samma plats som Junior-VM spelades Dam VM. Från Sverige deltog Kristina Mörk. Läs Kristinas eget referat från turneringen här
 ---
 

@@ -1,13 +1,9 @@
 ---
 title: SM för synskadade 2011 
 lastmod: 2011-03-16
+date: 2011-03-16
 summary: Jörgen Magnusson vann SM i schack för synskadade 2011. SM innehöll spelare från 14 till 85 år och avgjordes i Gävle den 10-13 mars. Resultat och information från SM 2011
 ---
-
-[]()
-
-SM för synskadade 2011 
-==========
 
 Jörgen Magnusson vann SM i schack för synskadade 2011. Silvret gick till William Lyons och bronset till fjolårsmästaren Håkan Thomsson. Klass 2 vanns av 16-årige Fredrik Ljungdahl, Tyresö, och i klass 3 segrade Bengt Eriksson, Stockholm, efter särspel. SM avgjordes på Scandic CH i Gävle den 10-13 mars. Turneringen samlade 20 deltagare. Som domare fungerade Stephan Lindberg.
 

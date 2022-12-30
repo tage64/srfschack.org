@@ -1,13 +1,9 @@
 ---
 title: Dramatik i öppna Norrländska
 lastmod: 2015-07-26
+date: 2015-07-26
 summary: Som vanligt avgjordes årets Öppna Norrländska Mästerskap i Undersåker i juli och den lyckade tävlingen bjöd på flera skrällar. Rapport från Öppna Norrlandsmästerskapet 2015
 ---
-
-[]()
-
-Öppna Norrlandsmästerskapet 2015
-==========
 
 Det Öppna Norrlandsmästerskapet avgjordes mellan den 8-12 juli. Spelplatsen var hotell Fjällsätra (Undersåker, Åre kommun).
 

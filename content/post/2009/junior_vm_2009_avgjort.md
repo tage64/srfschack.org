@@ -1,13 +1,9 @@
 ---
 title: Junior VM 2009 avgjort
 lastmod: 2010-01-16
+date: 2009-12-31
 summary: "Daniel Pulvet från Venezuela vann junior-VM för synskadade som spelades på Scandic hotell i Täby den 20-24 juni. Bäste svensk blev Markus Berggren på fjärde plats. \n JVM 2009 i Sverige, information från tävlingen och material ."
 ---
-
-[]()
-
-Junior VM 2009
-==========
 
 **Daniel Pulvett från Venezuela, född den 24 september 1991, är ny juniorvärldsmästare för synskadade.** 
 

@@ -1,13 +1,9 @@
 ---
 title: Årsmötet 2013
 lastmod: 2013-03-12
+date: 2013-03-12
 summary: Referat från årsmötet 2013
 ---
-
-[]()
-
-Ny ordförande för Schackförbundet
-==========
 
 Den 8 mars genomfördes 2013 års årsmöte i Sveriges Synskadades Schackförbund. Plats var Stadshotellet i Hudiksvall.
 

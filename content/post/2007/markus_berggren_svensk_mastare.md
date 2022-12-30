@@ -1,13 +1,9 @@
 ---
 title: Markus Berggren svensk mästare
 lastmod: 2010-01-25
+date: 2007-12-31
 summary: "18-årige Markus Berggren, Tumba, försvarade sin SM-titel i schack för synskadade. SM spelades på Almåsa konferensanläggning den 23-26 februari. SRF Iris AB var huvudsponsor för evenemanget.  \n Läs mer om 2007 års SM"
 ---
-
-[]()
-
-Markus Berggren svensk mästare
-==========
 
 18-årige Markus Berggren, Tumba, försvarade sin SM-titel i schack för synskadade. SM spelades på Almåsa konferensanläggning den 23-26 februari. SRF Iris AB var huvudsponsor för evenemanget.
 

@@ -1,13 +1,9 @@
 ---
 title: Snabbschackturnering spelad i Stockholm
 lastmod: 2010-01-25
+date: 2007-12-31
 summary: "I januari avgjordes en mindre snabbschackturnering i Stockholm \n Läs om snabbschackturneringen i stockholm  "
 ---
-
-[]()
-
-Snabbschack i Stockholm
-==========
 
 Lördagen den 13 januari 2007 ordnade Synskadades Schackklubb i Stockholm en snabbschackturnering med tidshandikapp. Man utgick från 30 minuter per spelare, men när det skiljde mera än 100 poäng i ranking så fick den lägre rankade tre minuter extra och den högre rankade fick tre minuter mindre tid. För ytterligare 100 poängs rankingskillnad blev det ytterligare tre minuter åt vardera hållet på klockan och så vidare. Den största tidsskillnaden bestämdes dock till 54 mot 6.
 

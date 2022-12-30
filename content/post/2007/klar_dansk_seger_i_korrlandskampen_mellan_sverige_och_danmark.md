@@ -1,13 +1,9 @@
 ---
 title: Klar dansk seger i korrlandskampen mellan Sverige och Danmark
 lastmod: 2010-01-25
+date: 2007-12-31
 summary: Rapport om landskampen i korrespondensschack mellan Sverige och Danmark av Håkan Thomsson
 ---
-
-[]()
-
-Danmark vann korrlandskampen
-==========
 
 Den landskamp i korrespondensschack för synskadade som Sverige och Danmark påbörjade i våras är nu slutförd. Och det blev en överlägsen dansk seger med 13-5.
 

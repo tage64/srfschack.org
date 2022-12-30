@@ -1,13 +1,9 @@
 ---
 title: Sverige två i NM
 lastmod: 2010-01-13
+date: 2009-12-31
 summary: "Nordiska mästerskapet för synskadade 2009 spelades i Hurdal, Norge, i allhelgonahelgen. Sverige var snubblande nära segern men denna kneps av Finland. \n NM 2009, mer information om turneringen.  "
 ---
-
-[]()
-
-Sverige tvåa i NM
-==========
 
 Nordiska mästerskapet för synskadade 2009 spelades i Hurdal, Norge, i allhelgonahelgen. NM avgörs med sexmannalag. I första hand räknas partipoäng och i andra hand matchpoäng. 
 

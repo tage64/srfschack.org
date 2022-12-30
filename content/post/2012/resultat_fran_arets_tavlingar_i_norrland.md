@@ -1,13 +1,9 @@
 ---
 title: Resultat från årets tävlingar i Norrland
 lastmod: 2012-08-17
+date: 2012-08-17
 summary: Öppna Norrlandsmästerskapen i schack 2012 för synskadade avgjordes 31/7-3/8 på Hotell Fjällsätra i Undersåker. Samtidigt avgjordes också den årliga landskampen mellan Nordsverige och Tröndelag. Efter några dagars trevlig samvaro och schackspelande hamnade titlarna i Norge i år. Dags att vässa spjuten inför 2013! Läs mer om årets tävlingar i Norrland
 ---
-
-[]()
-
-Resultat från tävlingarna i Norrland
-==========
 
 Öppna Norrlandsmästerskapen i schack 2012 för synskadade avgjordes 31/7-3/8 på Hotell Fjällsätra i Undersåker. Per Ivar Norum, Norge, försvarade sin titel från förra året efter att med minsta möjliga marginal besegrat Dobrovoje Vukovic, Hudiksvall, med bättre kvalitetspoäng. Norum och Vukovic gick båda obesegrade genom turneringen med vardera 6,5 p/7 partier, med sina enda poängtapp i tredje rondens remiparti de båda spelarna emellan. Enligt kommentatorer tryckte Vukovic länge tillbaka Norum under denna ”moraliska final”, men Norum lyckades hålla ihop ställningen till remi för att sedan gå vidare och vinna hela mästerskapet. Årets turnering samlade 14 deltagare med 9 spelare från Norge och 5 från Sverige. Turneringen spelades 7 ronder Monrad. Betänketiden var 2 tim. per spelare och parti. Domare var Lennart Burman, Östersund.
 

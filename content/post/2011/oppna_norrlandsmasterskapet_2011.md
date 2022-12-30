@@ -1,13 +1,9 @@
 ---
 title: Öppna Norrlandsmästerskapet 2011
 lastmod: 2011-08-12
+date: 2011-08-12
 summary: Det blev norsk seger i årets öppna Norrlandsmästerskap för synskadade genom Per Ivar Norum från Bodö. Norum, som är född 1969, tog 6,0/7, efter att han vunnit fem partier och spelat två remier. Dobrivoje Vukovic, Hudiksvall, tog andraplatsen tack vare bättre kvalitetspoäng än Håkan Thomsson, Tierp. Läs mer om öppna Norrlandsmästerskapet 2011
 ---
-
-[]()
-
-Öppna Norrlandsmästerskapet 2011 
-==========
 
 Det blev norsk seger i årets öppna Norrlandsmästerskap för synskadade genom Per Ivar Norum från Bodö. Norum, som är född 1969, tog 6,0/7, efter att han vunnit fem partier och spelat två remier. Dobrivoje Vukovic, Hudiksvall, tog andraplatsen tack vare bättre kvalitetspoäng än Håkan Thomsson, Tierp.
 

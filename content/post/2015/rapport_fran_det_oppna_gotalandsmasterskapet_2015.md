@@ -1,13 +1,9 @@
 ---
 title: Rapport från det Öppna Götalandsmästerskapet 2015
 lastmod: 2015-05-23
+date: 2015-05-23
 summary: Under Kristi himmelsfärdshelgen spelades traditionsenligt det öppna Götalandsmästerskapet.  Rapport från GM 2015
 ---
-
-[]()
-
-Rapport från det Öppna Götalandsmästerskapet 2015
-==========
 
 Under Kristi himmelsfärdshelgen, den 14-17 maj, spelades traditionsenligt det Öppna Götalandsmästerskapet i schack. Turneringen ägde rum på Glimåkra folkhögskola.
 

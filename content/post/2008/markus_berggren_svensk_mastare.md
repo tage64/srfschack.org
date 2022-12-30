@@ -1,13 +1,9 @@
 ---
 title: Markus Berggren svensk mästare
 lastmod: 2010-01-25
+date: 2008-12-31
 summary: "19-årige Markus Berggren, Tumba, vann 2008 års SM i schack för synskadade. Turneringen spelades på Forsa folkhögskola utanför Hudiksvall den 3 – 6 april. \n Rapport och slutställning från SM 2008 \n"
 ---
-
-[]()
-
-Markus Berggren svensk mästare
-==========
 
 19-årige Markus Berggren, Tumba, vann 2008 års SM i schack för synskadade. Turneringen spelades på Forsa folkhögskola utanför Hudiksvall den 3 – 6 april.
 
