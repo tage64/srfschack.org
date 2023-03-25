@@ -2,6 +2,7 @@
 title: Inbjudan till SM 2023 och kallelse till årsmöte
 date: 2023-01-11
 summary: Du inbjuds härmed till svenska mästerskapet i schack för synskadade, 23-26 mars på Best Western SöderH hotell i Söderhamn!
+draft: true
 ---
 
 ## Inbjudan till SM
