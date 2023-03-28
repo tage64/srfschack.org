@@ -5,14 +5,13 @@ menu:
     parent: about
 ---
 
-Styrelsen höll konstituerande sammanträde den 27 mars 2022 <!--more--> och
+Styrelsen höll konstituerande sammanträde den 28 mars 2023 <!--more--> och
 konstitueringen utföll enligt följande:
  
 - Håkan Thomsson, ordförande;
-- Kristina Mörk, vice ordförande;
 - Peter Tjernberg, sekreterare;
 - Patrik Gränsmark, kassör;
-- Jörgen Magnusson, ledamot (kontaktperson gemtemot IBCA);
+- Jörgen Magnusson, vice ordförande (kontaktperson gemtemot IBCA);
 - Dobrivoje Vukovic, ledamot;
 - Tage Johansson, ledamot.
 
