@@ -23,8 +23,19 @@ Press Ctrl+C to stop
 where `XXXX` is some port number.
 Just point your favorite web browser to `localhost:XXXX` and you should see the website.
 
+If you have [Netlify CLI][4] installed, you should alternatively be able to run:
+```Bash
+$ netlify dev
+```
 
+## Deploying to [srfschack.org][1]
+
+To deploy the changes to the main site, you may install [Netlify CLI][4] and run:
+```Bash
+$ netlify deploy --build --prod
+```
 
 [1]: https://srfschack.org
 [2]: https://gohugo.io
 [3]: https://www.netlify.com
+[4]: https://github.com/netlify/cli
