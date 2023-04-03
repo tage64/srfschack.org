@@ -1,5 +1,6 @@
 ---
 title: Rapport från årsmötet 2023
+date: 2023-03-28
 ---
 
 Sveriges Synskadades Schackförbund höll sitt årsmöte på Best Western i

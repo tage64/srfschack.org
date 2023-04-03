@@ -1,5 +1,6 @@
 ---
 title: Rafflande SM i Söderhamn
+date: 2023-03-28
 ---
 
 Jörgen Magnusson, Höör, är svensk mästare för synskadade 2023. Han tog
@@ -39,3 +40,9 @@ Det blev alltså särspel om förstaplatsen. Två partier spelades med
 betänketiden 10 minuter plus 10 sekunder per drag. Jörgen vann det
 första som svart, och det andra slutade remi. Därmed var Jörgen
 Magnusson åter svensk mästare.
+
+## Sponsorer
+
+Vi är mycket tacksamma för de företag och föreningar som varit med och sponsrat schack sm i år:
+Det rör sig om [Insyn Scandinavia AB](https://insyn.se) och SRF Gävleborg.
+Dessutom hade hotellet (Best Western Söderhamn), förutom sin trevliga och serviceinriktade personal, den utsökta vänligheten att upplåta spellokalen gratis och stå för kost och logi för en ledsagare.
