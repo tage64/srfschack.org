@@ -10,8 +10,8 @@ You will need to install a recent version of [Hugo][2].
 Then, perform the following steps:
 
 ```Bash
-$ git clone https://github.com/tage64/sssf
-$ cd sssf
+$ git clone https://github.com/tage64/srfschack.org
+$ cd srfschack.org
 $ hugo serve
 ```
 
