@@ -1,140 +1,84 @@
 ---
-title: Inbjudan till SM 2024 och kallelse till årsmöte
-date: 2024-01-03
+title: SM 2024 och årsmöte
+date: 2024-03-24
 ---
 
-## Inbjudan till SM
+## Jörgen Magnusson, Höör, är svensk mästare för synskadade år 2024.
 
-Du inbjuds härmed till svenska mästerskapet i schack för synskadade år
-2024!
+Turneringen spelades på Rådmannen i Alvesta den 21-24 mars.
 
-Datum: 21-24 mars (torsdag till söndag)
+Årets SM samlade 14 deltagare. Klass 1, som spelade om SM-titeln, bestod
+av sex spelare som möttes i fem ronder berger. I klass 2 möttes åtta
+spelare i en femrondig schweizerturnering. Dragserien var 90 minuter
+plus 30 sekunder per drag. Domare var Håkan Winfridsson.
 
-Plats: Hotell Rådmannen, Centralgatan 2 i Alvesta
+I klass 1 tog Jörgen Magnusson fem raka segrar. I klass 2 dominerade
+Hernan Sobredo från Synskadades Schackklubb i Stockholm. Han var klar
+klassegrare redan innan femte ronden. Därmed har han kvalificerat sig
+för spel i klass 1 nästa år. Det blev särspel om tredjeplatsen i klass
+2, där man spelade två partier med betänketiden 10 minuter plus 10
+sekunder per drag. Här vann Per Svensson mot Rafetin Youmer med 2-0.
 
-Betänketiden vid SM är 90 minuter plus 30 sekunder per drag. Medtag eget
-schackspel, hörsnäcka samt om möjligt även fischerklocka.
+### Slutställning, SM för synskadade 2024, klass 1
 
-Anmälda spelare delas in i olika klasser i enlighet med förbundets
-tävlingsregler. Klass 1 spelar om SM-titeln.
+1\) Jörgen Magnusson, Höör 5;
 
-Startavgift, som inkluderar kost och logi, är 1.500 kr för del i
-dubbelrum och 2.500 kr i enkelrum. Startavgiften sätts in på förbundets
-plusgiro 401894--1 senast den 15 februari.
+2\) Tage Johansson, Uppsala 4;
 
-Dessutom måste alla spelare vara medlemmar i schackklubbarna i Stockholm
-eller Skåne eller vara direktanslutna till Sveriges Synskadades
-Schackförbund. För att delta vid SM och/eller årsmötet ska även
-medlemsavgiften vara inbetald senast den 15 februari.
+3\) Håkan Thomsson, Stockholm 3;
 
-Anmälan är bindande och görs genom inbetalning av startavgiften samt
-genom e-postmeddelande till dobbe232@gmail.com med kopia till
-h.th@bahnhof.se senast den 15 februari.
+4-5) Fredrik Ljungdahl, Tyresö, och dobrivoje Vukovic, Uppsala, 1,5;
 
-Ange namn, e-postadress och mobiltelefonnummer.
+6\) Peter Tjernberg, Sundsvall 0 poäng.
 
-Resor ska beställas så snart som möjligt för att få bästa pris. Tänk på
-att tåg kan bli försenade, så resorna bör bokas med god marginal.
-Hotellet ligger på kort gångavstånd från järnvägsstationen.
+### Slutställning, SM för synskadade 2024, klass 2
 
-Rekommenderade tågtider från Stockholm:
+1\) Hernan Sobredo, Viksjö 5;
 
-21 mars, avgång Stockholm C kl 12.21, ankomst Alvesta kl 15.26
+2\. Roger Wittiko, Malmö 3,5;
 
-24 mars, avgång Alvesta kl 13.28, ankomst Stockholm C kl 15.36
+3\) per Svensson, Skurup 3;
 
-Beställ ledsagning hos SJ när du bokat biljetten.
+4\) Rafetin Youmer, Varberg 3;
 
-Förbundet ersätter resekostnader som överstiger 500 kronor. Kvitton ska
-skickas till <info@sefiren.se> alternativt till
+5\) Kristina Mörk, Stockholm 2,5;
 
-Sefiren redovisningsbyrå
+6\) Mikael Haraldsson, Malmö 2;
 
-Tågagatan 7
+7\) Tibor Koczkas, Hässleholm 1;
 
-252 22 Helsingborg
+8\) Eddie Bergstrand, Malmö 0 poäng.
 
-Under eftermiddagen den 22 mars hålls förbundets årsmöte.
+## Årsmöte
 
-För frågor så kontakta Håkan Thomsson, <h.th@bahnhof.se> eller
+Årsmötet i Sveriges Synskadades Schackförbund genomfördes den 22 mars.
+Vid mötet deltog Håkan Jalling, ordförande i Sveriges Schackförbund, som
+framförde en hälsning till årsmötet. Till mötesordförande valdes Mikael
+Haraldsson.
 
-tfn 070 663 30 37.
+Årsredovisningshandlingarna gicks igenom och styrelsen beviljades
+ansvarsfrihet för år 2023. Medlemsavgiften 2025 för direktanslutna till
+förbundet fastställdes till 300 kr, dock 100 kr för spelare under 21 år.
+De lokala klubbarna erlägger en avgift till förbundet på 2.000 kr per
+klubb. Verksamhetsinriktning och budget för åren 2024 och 2025 gicks
+igenom och godkändes. En stor satsning är sexnationsturneringen för
+synskadade som spelas i Uppsala den 23-27 maj i år.
 
-Varmt välkommen med din anmälan!
+Vid valet till styrelse omvaldes Håkan Thomsson till förbundets
+ordförande på ett år. Till styrelseledamöter valdes Patrik Gränsmark och
+Peter Tjernberg på två år och Dobrivoje Vukovic på ett år.
 
-## Kallelse till årsmöte
+Revisorerna Karl-Gunnar Roth och Bertil Sköld omvaldes. Till
+valberedning utsågs Kristina Mörk, sammankallande, Roger Wittiko och
+Hernan Sobredo. Till ombud vid SRF-kongressen 2024 valdes Dobrivoje
+Vukovic med Tage Johansson som ersättare.
 
-Styrelsen för Sveriges Synskadades Schackförbund kallar till årsmöte
-fredagen den 22 mars kl 14.30 på Best Western Rådmannen, Centralgatan 2
-i Alvesta.
+Direkt efter årsmötet konstituerade sig styrelsen. Den har nu följande
+sammansättning:
 
-Årsmötet ska ta ställning till verksamhetsberättelse och bokslut för
-2023 samt frågan om ansvarsfrihet för styrelsens ledamöter. Vi ska välja
-ordförande, styrelseledamöter, revisorer och valberedning. Årsmötet
-beslutar om medlemsavgift för 2025, samt verksamhetsinriktning och
-budget för 2024 och 2025.
-
-Årsmöteshandlingar sänds ut till den som anmäler intresse till Håkan
-Thomsson på e-post <h.th@bahnhof.se> senast tre veckor före mötet.
-
-Väl mött!
-
-Håkan Thomsson, ordförande
-
-Sveriges Synskadades Schackförbund
-
-## Program för SM-dagarna
-
-**Torsdag 21 mars**
-
-Kl 15.30 Inkvartering
-
-KL 17.30 Middag och lottning
-
-KL 19.00 Rond 1
-
-KL 20.00 Fika i spellokalen
-
-**Fredag 22 mars**
-
-KL 07.30 Frukost
-
-KL 09.00 Rond 2
-
-KL 10.00 Fika i spellokalen
-
-KL 13.00 Lunch
-
-KL 14.30 Årsmöte
-
-KL 17.30 Middag
-
-KL 19.00 Rond 3
-
-KL 20.00 Fika i spellokalen
-
-**Lördag 23 mars**
-
-KL 07.30 Frukost
-
-KL 09.00 Rond 4
-
-KL 10.00 Fika i spellokalen
-
-KL 13.00 Lunch
-
-KL 14.30 Rond 5
-
-KL 15.30 Fika i spellokalen
-
-KL 19.00 Festmiddag
-
-**Söndag 24 mars**
-
-KL 08.00 Frukost
-
-KL 09.30 Eventuella särspel / annan schackaktivitet
-
-KL 12.00 Lunch
-
-Kl 13.00 Gemensam promenad till järnvägsstationen
+- Håkan Thomsson, ordförande
+- Jörgen Magnusson, vice ordförande
+- Patrik Gränsmark, kassör
+- Peter Tjernberg, sekreterare
+- Tage johansson, ledamot
+- Dobrivoje Vukovic, ledamot
