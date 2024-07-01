@@ -62,6 +62,9 @@ ungdomslag när Nederländerna lämnade återbud. Jäsper Hall förtjänar ocks�
 all hjälp med att organisera turneringen. Dommarna skötte sig exemplariskt, både Tomas och Jon. Tack
 också till Karl-Fredrik Johansson för den initiala kontakten med hotellet.
 
+Vi är också tacksamma för att Schackakademien, Stiftelsen KMA, SRF Uppsala län samt DBF:s
+Understödsstiftelse i Uppsala län stöttat turneringen ekonomiskt.
+
 Det slutliga resultatet [går att hitta på Chess-Results här][4]. Och partierna från turneringen kan
 laddas ner i [PGN format här][5]. Kolla gärna in på [Jörgens youtubekanala][6] för kommenterade
 partier och schackmaterial i största allmänhet.
