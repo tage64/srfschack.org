@@ -49,8 +49,6 @@ Datum för nästa års Öppna NM är redan ”spikat”. Turneringen går av sta
 
 Till sist återstår bara att rikta ett varmt tack till alla de spelare som deltog i turneringen! Alla ni behövs för att en bra turnering ska kunna arrangeras. Nästa år siktar vi på ännu fler deltagare, såväl från Sverige som från Norge!
 
-<img alt="Deltagarna i 2015 års Öppna Norrländska Mästerskap sittande på trappan till verandan på hotellet" src="http://www.srfschack.org/userfiles/image/gruppbild.jpg" height="250" width="375" />
-
 Peter Tjernberg
 
 Slutställning, Öppna NM 2015

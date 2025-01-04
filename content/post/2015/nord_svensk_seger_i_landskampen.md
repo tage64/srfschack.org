@@ -5,8 +5,6 @@ date: 2015-07-26
 summary: Rapport från sommarens kamp mellan Nord-Sverige och Trøndelag som vanns av Sverige. Rapport från landskampen 2015
 ---
 
-<img alt="Dobrivoje Vukovic djupt försjunken i ett parti" src="http://www.srfschack.org/userfiles/image/dobbe.jpg" height="166" width="250" />
-
 Årets upplaga av den traditionsrika landsdelskampen mellan Nord-Sverige och Trøndelag avgjordes den 7 juli, på hotell Fjällsätra, i Undersåker (Åre kommun). I år var det Trøndelag som stod som arrangörer.
 
 Landsdelskampen avgjordes över 6 bord. Vid bord 1 kämpade Per Ivar Norum mot Håkan Thomsson. Vid bord 2 möttes Oddvar Öyan och Dobrivoje Vukovic. Vid bord 3 återfanns Steinar Volden och Olle Engström. Vid bord 4 pågick schackstriden mellan Tormod Prytz och Peter Tjernberg. Vid bord 5 möttes Arild Öyan och Peter Hjalmarsson. Vid bord 6 spelade Kari Engan och Georgibelle Fröjse.
