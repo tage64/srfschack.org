@@ -5,9 +5,11 @@ theme = ["ananke"]
 
 DefaultContentLanguage = "sv"
 SectionPagesMenu = "main"
-Paginate = 5
 googleAnalytics = ""
 enableRobotsTXT = true
+
+[pagination]
+pagerSize = 5
 
 [sitemap]
  changefreq = "monthly"
